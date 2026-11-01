@@ -1,12 +1,14 @@
 # AI Resume Matcher
 
+[![CI](https://github.com/piyush1008-cyber/ai-resume-matcher/actions/workflows/ci.yml/badge.svg)](https://github.com/piyush1008-cyber/ai-resume-matcher/actions)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests: Pytest](https://img.shields.io/badge/tests-pytest-brightgreen.svg)](https://docs.pytest.org/)
 [![NLP: TF--IDF & Cosine Similarity](https://img.shields.io/badge/NLP-TF--IDF%20%26%20Cosine%20Similarity-blueviolet.svg)](https://scikit-learn.org/)
 [![Placement Ready](https://img.shields.io/badge/Placement-HR%20%26%20ATS%20Analytics-success.svg)](https://github.com/piyush1008-cyber/ai-resume-matcher)
 
-> **Automated NLP candidate resume parsing and Job Description (JD) matching engine in Python.** Computes TF-IDF n-gram semantic similarity, skill overlap percentages, experience alignment, and generates targeted skill gap upskilling recommendations.
+> **Automated NLP candidate resume parsing and Job Description (JD) matching engine in Python.** Computes TF-IDF n-gram semantic similarity, skill overlap percentages, experience alignment, and generates targeted skill gap upskilling recommendations. Includes an interactive Streamlit web dashboard.
 
 ---
 
@@ -47,7 +49,13 @@ Where:
 
 ## Quickstart & Usage
 
-### 1. Run Automated Demonstration
+### 1. Launch Interactive Streamlit Web UI
+```bash
+streamlit run streamlit_app.py
+```
+Opens an interactive dashboard in your browser with dual side-by-side text editors for candidate resumes and target job descriptions, dynamic match gauges, skill gap chips, and personalized career advice.
+
+### 2. Run Automated Demonstration
 ```bash
 python main.py demo
 ```
