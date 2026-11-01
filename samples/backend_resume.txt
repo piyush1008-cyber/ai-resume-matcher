@@ -1,0 +1,23 @@
+Piyush Kangle
+Email: piyushkangle@gmail.com | GitHub: https://github.com/piyush1008-cyber
+Education: Bachelor of Technology (B.Tech) in Computer Science
+
+PROFESSIONAL SUMMARY
+Backend Software Engineer with 2 years of experience designing high-throughput REST APIs, microservices, and distributed systems in Python and C++. Passionate about high concurrency, database optimization, and scalable backend infrastructure.
+
+TECHNICAL SKILLS
+- Languages: Python, C++, SQL, JavaScript
+- Frameworks & Web: FastAPI, Flask, Django, WebSockets, REST API
+- Databases: PostgreSQL, SQLite, Redis, MySQL
+- DevOps & Cloud: Docker, Git, CI/CD, Linux, AWS
+- Systems & DSA: System Design, Data Structures, Algorithms, OOP
+
+REPRESENTATIVE PROJECTS
+1. High-Concurrency Rate Limiter Middleware
+   - Engineered token bucket and sliding window log rate limiters in FastAPI with Redis caching.
+2. Production JWT Authentication Microservice
+   - Implemented RFC 7519 compliant authentication with bcrypt password hashing and refresh token rotation.
+3. Distributed URL Shortener API
+   - Built Base62 shortening engine with telemetry analytics handling 10k+ req/sec.
+4. Placement DSA Mastery in C++ and Python
+   - Solved 150+ LeetCode problems covering Dynamic Programming, Graphs, Trees, and Heaps.

@@ -1,0 +1,19 @@
+Title: Backend Software Engineer (Python / FastAPI)
+Company: NextGen Cloud Solutions
+Experience Required: 2+ years of experience
+
+ROLE RESPONSIBILITIES:
+- Design, build, and maintain mission-critical REST APIs and microservices using Python and FastAPI.
+- Optimize high-concurrency database queries and caching layers using PostgreSQL and Redis.
+- Deploy and monitor distributed containerized workloads using Docker and Kubernetes on AWS.
+- Collaborate with engineering teams to establish automated CI/CD pipelines, Git workflows, and comprehensive unit test suites.
+- Apply robust System Design principles and Data Structures to ensure high availability and sub-millisecond API response latencies.
+
+REQUIRED QUALIFICATIONS & SKILLS:
+- Bachelor's degree in Computer Science or related engineering field.
+- 2+ years of experience in Python backend development.
+- Hands-on expertise with FastAPI, Flask, or Django.
+- Strong proficiency with PostgreSQL, SQL indexing, and Redis in-memory caching.
+- Familiarity with Docker, Linux, Git, and AWS cloud services.
+- Solid understanding of Data Structures, Algorithms, and System Design patterns.
+- Bonus: Experience with Kubernetes, WebSockets, or Go.

@@ -1,0 +1,13 @@
+Title: Machine Learning Engineer
+Experience Required: 2+ years of experience
+
+ROLE RESPONSIBILITIES:
+- Architect and train production-grade machine learning and deep learning pipelines.
+- Implement NLP classification models using Scikit-Learn, PyTorch, and TensorFlow.
+- Perform exploratory data analysis and feature engineering using Pandas and NumPy.
+- Package ML models as REST APIs using FastAPI and containerize with Docker on GCP or AWS.
+
+REQUIRED QUALIFICATIONS:
+- Hands-on expertise with Python, Scikit-Learn, PyTorch, Pandas, and NumPy.
+- Practical experience with Machine Learning algorithms and Deep Learning.
+- Experience with NLP and model deployment via Docker and REST APIs.
